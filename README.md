@@ -6,6 +6,7 @@ Application «Calculator» with which the user can calculate the result of an ex
 ### Database
 Data is stored in MySQL database. The user can get, change, delete data from the database.
 </br>
+</br>
 ![database-calculator](https://user-images.githubusercontent.com/107927376/197419828-cae2001a-af3a-4794-81d0-d8418cdcf7b6.png)
 
 
